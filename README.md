@@ -383,6 +383,4 @@ The result is a structured working dataset and a documented workflow that can be
 
 **Period:** 1951–2019
 
-**Project status:** Working deliverables generated; final source and unit verification pending.#   L i v e S t o c k _ A n i m a l s - 1 9 5 1 - 2 0 1 9 -  
- #   L i v e S t o c k _ A n i m a l s - 1 9 5 1 - 2 0 1 9 -  
- 
+**Project status:** Working deliverables generated; final source and unit verification pending.
